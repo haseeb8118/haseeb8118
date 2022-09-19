@@ -5,7 +5,7 @@ I'm an undergraduate student of Computer Science from Sir Syed University. I hav
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@2001abdulhaseeb-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/2001abdulhaseeb) [![Linkedin Badge](https://img.shields.io/badge/-2001abdulhaseeb-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2001abdulhaseeb/) [![Mail Badge](https://img.shields.io/badge/-@02001abdulhaseeb-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/02001abdulhaseeb) [![Mail Badge](https://img.shields.io/badge/-abdulhaseeb02001@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdulhaseeb02001@gmail.com)
-[![Skype](https://img.shields.io/badge/2001abdulhaseeb-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/wOHJ7Hm8WCJr)
+[![Skype](https://img.shields.io/badge/2001abdulhaseeb-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/wOHJ7Hm8WCJr) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/UUIQSTWW3S7WO1)
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @WallSoft Technologies
