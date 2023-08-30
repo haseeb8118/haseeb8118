@@ -34,7 +34,7 @@ I'm an undergraduate student of Computer Science from Sir Syed University. I hav
 <br />
 
 #### 1.1.1. Bizness
-- :paperclip: [My Resume/CV](https://github.com/haseeb8118/haseeb8118/blob/main/Abdul's%20Resume%20(2).pdf)
+- :paperclip: [My Resume/CV](https://github.com/haseeb8118/haseeb8118/blob/main/CV-AbdulHaseeb.pdf)
 - :email: abdulhaseeb02001@gmail.com
 
 
